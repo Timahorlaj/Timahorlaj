@@ -1,8 +1,8 @@
 - 👋 Hi, I'm @Timahorlaj!
 - 
-👩‍💻 I'm passionate about data analytics, technology and continuous learning.
+👩‍💻 I'm passionate about BA, QA, data analytics, technology and continuous learning.
 
-🌱 Currently working with Python, SQL, Power BI, DAX and CRM tools to develop my technical and analytical skills.
+🌱 Currently working with AI, Python, SQL, Power BI, DAX and CRM and Wireframing tools to develop my technical and analytical skills.
 
 🤝 Open to collaborating on projects, sharing knowledge, learning from others and building professional connections.
 
